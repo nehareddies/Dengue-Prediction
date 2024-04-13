@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+    crossorigin="anonymous">
+</head>
+
+<div class="container" id="container">
+        <div class="form-container sign-up-container">
+            </form>
+        </div>
+
+        <div class="form-container sign-in-container">
+            <h3>Choose the symtoms you are facing!</h3>
+            <form action='/predict' method="POST">
+                
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                Current Temperature: <input type='text' name='temp'><br><br>
+    
+                White Blood Cell count: <input type='text' name='wbc'><br><br>
+    
+                Hematocrit level: <input type='text' name='hematocri'><br><br>
+    
+                Hemoglobin level: <input type='text' name='hemoglobin'><br><br>
+    
+                Platelet count: <input type='text' name='platelet'><br>
+
+                <span>Choose the symptoms you are facing:</span>
+                <label>
+                  <input type="checkbox" name="headache"> Severe Headache
+                </label>
+              
+                <label>
+                  <input type="checkbox" name="pain_behind_eye"> Pain Behind The Eye
+                </label>
+              
+                <label>
+                  <input type="checkbox" name="joint_muscle_aches"> Joint Muscle Aches
+                </label>
+                <label>
+                    <input type="checkbox" name="metallic_taste_in_the_mouth"> Metallic Taste In Mouth 
+                </label>
+                <label>
+                    <input type="checkbox" name="appetite_loss"> Appetite Loss
+                </label>
+                <label>
+                    <input type="checkbox" name="abdominal_pain"> Abdominal Pain
+                </label>
+                <label>
+                    <input type="checkbox" name="nausea_vomiting"> Nausea/Vomitting
+                </label>
+                <label>
+                    <input type="checkbox" name="diarrhoea"> Diarrhoea
+                </label><br>
+                                  
+                <button value='PREDICT'>Predict</button>
+                 <br>
+                 <h1 class="res">{{result}}</h1>
+            </form>
+            
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-right">
+                    <h1>Dengue Prediction</h1>
+                    <p>This project aims to develop a rapid and accurate system for detecting dengue fever.<br><br> This project is built using advanced technologies like machine learning.<br><br>The focus is on creating a user-friendly interface for seamless integration into healthcare systems, ultimately improving patient outcomes in the global fight against dengue and similar diseases.</p>
+            </div>
+        </div>
+    </div>
+	</div>
