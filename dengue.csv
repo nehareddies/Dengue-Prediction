@@ -1,0 +1,109 @@
+p_i_d,date_of_fever,residence,days,current_temp,wbc,servere_headche,pain_behind_the_e1,joint_muscle_aches,metallic_taste_in_the_mouth,appetite_loss,addominal_pain,nausea_vomiting,diarrhoea,hemoglobin,hematocri,platelet,result
+P012,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,tal se tal mila15,NULL,140,1
+P011,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P010,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P009,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P008,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P007,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P006,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P005,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P100,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P099,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P098,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P097,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P096,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P095,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P094,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P093,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P092,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P091,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P090,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P089,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P088,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P087,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P086,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P085,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P084,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P083,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P082,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P081,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P080,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P079,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P078,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P077,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P076,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P075,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P074,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P073,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P072,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P071,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P070,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P069,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P068,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P067,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P066,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P065,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P064,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P063,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P062,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P061,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P060,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P059,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P058,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P057,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P056,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P055,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P054,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P053,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P052,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P051,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P050,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P049,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P048,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P047,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P046,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P045,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P044,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P043,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P042,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P041,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P040,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P039,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P038,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P037,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P036,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P035,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P034,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P033,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P032,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P031,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P030,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P029,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P028,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P027,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P026,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P025,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P024,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P023,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P022,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P021,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P020,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P019,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P018,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P017,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P016,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P015,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P014,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P013,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
+P012,13-Jan,Bangalore,10 days,100,5,1,0,0,1,1,1,0,1,15,NULL,140,1
+P011,13-Feb,New Delhi,4 days,104,1,0,1,1,0,0,0,0,0,9,22,80,0
+P010,9-Jan,Jamica,5 days,104,5,1,0,0,1,1,1,1,0,NULL,NULL,120,1
+P009,12-Aug,Barbados,12 months,101,NULL,1,1,0,0,0,0,0,0,NULL,NULL,NULL,0
+P008,12-Oct,St.Martin,3 days,101,NULL,1,0,0,0,0,0,1,0,NULL,NULL,NULL,0
+P007,10-Jun,Mumbai,3 days,104,NULL,1,0,0,0,0,1,1,0,NULL,NULL,NULL,1
+P006,12-Feb,Bangalore,3 days,104,NULL,1,0,0,1,0,0,0,0,NULL,NULL,90,1
+P005,12-Jun,Thiland,2 weeks,103.5,2.2,1,1,0,1,0,0,0,0,10,25,110,1
+P004,10-Sep,Jamica,3--4,103,NULL,1,1,1,0,0,0,0,0,NULL,NULL,NULL,0
+P003,12-Jun,WestIndies,2 weeks,101,NULL,1,0,1,0,0,1,0,0,NULL,NULL,NULL,1
+P002,12-Feb,Thiland,3--4,105,NULL,1,0,1,0,1,0,1,0,NULL,NULL,NULL,1
+P001,2-Jun,US Vergin Islands,,0,5,1,0,1,0,0,0,1,0,8.6,23,90,1
